@@ -55,3 +55,6 @@ tramp
 ### Gradle ###
 .gradle
 build/
+
+src/main/webapp/b
+node_modules

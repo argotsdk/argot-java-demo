@@ -1,0 +1,7 @@
+{
+  "name": "argot-java-demo",
+  "dependencies": {
+    "argot-browser": "0.1.4",
+    "flot": "v0.8"
+  }
+}
